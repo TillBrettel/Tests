@@ -27,6 +27,8 @@
     "serviceField": "Service",
     "bookButton": "Buchen",
     "openInNewTab": "Vorschau in neuem Tab öffnen",
+    "openNormalPreview": "Normale Vorschau in neuem Tab öffnen",
+    "openMobilePreview": "Mobile Vorschau in neuem Tab öffnen",
     "downloadHtml": "Download HTML",
     "copyHtml": "HTML kopieren",
     "addService": "Produkt hinzufügen",
@@ -359,7 +361,13 @@
     "defaultPosition": "Standard (0)",
     "callButton": "Anrufen",
     "emailContentCopied": "E-Mail-Inhalt in die Zwischenablage kopiert. Bitte fügen Sie ihn in Ihren E-Mail-Client ein.",
-    "emailContentCopyFailed": "Fehler beim Kopieren des E-Mail-Inhalts. Bitte kopieren Sie ihn manuell."
+    "emailContentCopyFailed": "Fehler beim Kopieren des E-Mail-Inhalts. Bitte kopieren Sie ihn manuell.",
+    "mobileSettings": "Mobile Einstellungen",
+    "mobileNameFontSize": "Mobile Schriftgröße Name (px)",
+    "mobileDescriptionFontSize": "Mobile Schriftgröße Beschreibung (px)",
+    "mobileLogoWidth": "Mobile Logo Breite (px)",
+    "mobileLogoHeight": "Mobile Logo Höhe (px)",
+    "mobilePreview": "Mobile Vorschau"
   },
   "en": {
     "aboutUs": "About Us",
@@ -482,6 +490,8 @@
     "accountManagement": "Account Management",
     "htmlCopied": "HTML copied to clipboard!",
     "popupBlocked": "Pop-ups are blocked. Please allow pop-ups for this page to open the preview in a new tab.",
+    "openNormalPreview": "Open normal preview in new tab",
+    "openMobilePreview": "Open mobile preview in new tab",
     "accessDenied": "Access denied. You do not have permission to view this page.",
     "toggleLanguageOptions": "Show Language Options",
     "editSectionContent": "Edit content for '%{section}' section",
@@ -655,7 +665,13 @@
     "defaultPosition": "Default (0)",
     "callButton": "Call",
     "emailContentCopied": "Email content copied to clipboard. Please paste it into your email client.",
-    "emailContentCopyFailed": "Failed to copy email content. Please copy it manually."
+    "emailContentCopyFailed": "Failed to copy email content. Please copy it manually.",
+    "mobileSettings": "Mobile Settings",
+    "mobileNameFontSize": "Mobile Name Font Size (px)",
+    "mobileDescriptionFontSize": "Mobile Description Font Size (px)",
+    "mobileLogoWidth": "Mobile Logo Width (px)",
+    "mobileLogoHeight": "Mobile Logo Height (px)",
+    "mobilePreview": "Mobile Preview"
   },
   "es": {
     "aboutUs": "Sobre Nosotros",
@@ -778,6 +794,8 @@
     "accountManagement": "Gestión de Cuentas",
     "htmlCopied": "¡HTML copiado al portapapeles!",
     "popupBlocked": "Las ventanas emergentes están bloqueadas. Por favor, permite las ventanas emergentes para esta página para abrir la vista previa en una nueva pestaña.",
+    "openNormalPreview": "Abrir vista previa normal en una nueva pestaña",
+    "openMobilePreview": "Abrir vista previa móvil en una nueva pestaña",
     "accessDenied": "Acceso denegado. No tienes permiso para ver esta página.",
     "toggleLanguageOptions": "Mostrar opciones de idioma",
     "editSectionContent": "Editar contenido para la sección '%{section}'",
@@ -951,7 +969,13 @@
     "defaultPosition": "Predeterminado (0)",
     "callButton": "Llamar",
     "emailContentCopied": "Contenido del correo electrónico copiado al portapapeles. Péguelo en su cliente de correo electrónico.",
-    "emailContentCopyFailed": "Error al copiar el contenido del correo electrónico. Cópielo manualmente."
+    "emailContentCopyFailed": "Error al copiar el contenido del correo electrónico. Cópielo manualmente.",
+    "mobileSettings": "Ajustes Móviles",
+    "mobileNameFontSize": "Tamaño de Fuente del Nombre Móvil (px)",
+    "mobileDescriptionFontSize": "Tamaño de Fuente de la Descripción Móvil (px)",
+    "mobileLogoWidth": "Ancho del Logo Móvil (px)",
+    "mobileLogoHeight": "Altura del Logo Móvil (px)",
+    "mobilePreview": "Vista Previa Móvil"
   },
   "it": {
     "aboutUs": "Chi Siamo",
@@ -1070,7 +1094,9 @@
     "websiteEditor": "Editor del Sito Web",
     "accountManagement": "Gestione Account",
     "htmlCopied": "HTML copiato negli appunti!",
-    "popupBlocked": "I pop-up sono bloccati. Si prega di consentire i pop-up per esta pagina para abrir la vista previa en una nueva pestaña.",
+    "popupBlocked": "I pop-up sono bloccati. Si prega di consentire i pop-up per esta pagina para abrir la vista previa en una nuova pestaña.",
+    "openNormalPreview": "Apri l'anteprima normale in una nuova scheda",
+    "openMobilePreview": "Apri l'anteprima mobile in una nuova scheda",
     "accessDenied": "Accesso negato. Non hai il permesso di visualizzare esta pagina.",
     "toggleLanguageOptions": "Mostra opzioni di lingua",
     "editSectionContent": "Modifica contenuto per la sezione '%{section}'",
@@ -1117,7 +1143,7 @@
     "start": "Start",
     "end": "End",
     "spaceBetween": "Space Between",
-    "alignItems": "Alineación Vertical (Contenedor)",
+    "alignItems": "Alineación Vertical (Contenedore)",
     "stretch": "Stretch",
     "addBlockToContainer": "Add Block to Container",
     "transparentNavbar": "Rendi la barra de navigazione trasparente",
@@ -1244,6 +1270,12 @@
     "defaultPosition": "Predefinito (0)",
     "callButton": "Chiama",
     "emailContentCopied": "Contenuto dell'e-mail copiato negli appunti. Incollalo nel tuo client di posta elettronica.",
-    "emailContentCopyFailed": "Impossibile copiare il contenuto dell'e-mail. Copialo manualmente."
+    "emailContentCopyFailed": "Impossibile copiare il contenuto dell'e-mail. Copialo manualmente.",
+    "mobileSettings": "Impostazioni Mobile",
+    "mobileNameFontSize": "Dimensione Carattere Nome Mobile (px)",
+    "mobileDescriptionFontSize": "Dimensione Carattere Descrizione Mobile (px)",
+    "mobileLogoWidth": "Larghezza Logo Mobile (px)",
+    "mobileLogoHeight": "Altezza Logo Mobile (px)",
+    "mobilePreview": "Anteprima Mobile"
   }
 }
