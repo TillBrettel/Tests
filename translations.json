@@ -367,7 +367,10 @@
     "mobileDescriptionFontSize": "Mobile Schriftgröße Beschreibung (px)",
     "mobileLogoWidth": "Mobile Logo Breite (px)",
     "mobileLogoHeight": "Mobile Logo Höhe (px)",
-    "mobilePreview": "Mobile Vorschau"
+    "mobilePreview": "Mobile Vorschau",
+    "mobileSectionTitleFontSize": "Mobile Sektionstitel Schriftgröße (px)",
+    "mobileSectionContentFontSize": "Mobile Sektionsinhalt Schriftgröße (px)",
+    "stackOnMobile": "Auf Mobilgeräten stapeln"
   },
   "en": {
     "aboutUs": "About Us",
@@ -671,7 +674,10 @@
     "mobileDescriptionFontSize": "Mobile Description Font Size (px)",
     "mobileLogoWidth": "Mobile Logo Width (px)",
     "mobileLogoHeight": "Mobile Logo Height (px)",
-    "mobilePreview": "Mobile Preview"
+    "mobilePreview": "Mobile Preview",
+    "mobileSectionTitleFontSize": "Mobile Section Title Font Size (px)",
+    "mobileSectionContentFontSize": "Mobile Section Content Font Size (px)",
+    "stackOnMobile": "Stack on Mobile"
   },
   "es": {
     "aboutUs": "Sobre Nosotros",
@@ -975,7 +981,10 @@
     "mobileDescriptionFontSize": "Tamaño de Fuente de la Descripción Móvil (px)",
     "mobileLogoWidth": "Ancho del Logo Móvil (px)",
     "mobileLogoHeight": "Altura del Logo Móvil (px)",
-    "mobilePreview": "Vista Previa Móvil"
+    "mobilePreview": "Vista Previa Móvil",
+    "mobileSectionTitleFontSize": "Tamaño de Fuente del Título de la Sección Móvil (px)",
+    "mobileSectionContentFontSize": "Tamaño de Fuente del Contenido de la Sección Móvil (px)",
+    "stackOnMobile": "Apilar en Móvil"
   },
   "it": {
     "aboutUs": "Chi Siamo",
@@ -1276,6 +1285,9 @@
     "mobileDescriptionFontSize": "Dimensione Carattere Descrizione Mobile (px)",
     "mobileLogoWidth": "Larghezza Logo Mobile (px)",
     "mobileLogoHeight": "Altezza Logo Mobile (px)",
-    "mobilePreview": "Anteprima Mobile"
+    "mobilePreview": "Anteprima Mobile",
+    "mobileSectionTitleFontSize": "Dimensione Carattere Titolo Sezione Mobile (px)",
+    "mobileSectionContentFontSize": "Dimensione Carattere Contenuto Sezione Mobile (px)",
+    "stackOnMobile": "Impila su Mobile"
   }
 }
