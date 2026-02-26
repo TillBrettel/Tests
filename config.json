@@ -6,7 +6,7 @@
   "phone": "+49 123 456789",
   "hours": "Mo-Fr: 10:00 - 20:00\nSa: 11:00 - 18:00",
   "accent": "#3b82f6",
-  "layoutTemplate": "freestyleApple",
+  "layoutTemplate": "freestyleNusret",
   "logoDataUrl": "",
   "backgroundColor": "#f8fafc",
   "backgroundImage": "",
@@ -239,11 +239,12 @@
   "navbarBorderWidth": 1,
   "navbarBorderStyle": "solid",
   "navbarCustomTabNames": {
-    "freestyle-section-057dc573-e85b-4a5b-851b-65f7dc66790a": "Home",
-    "freestyle-section-9c644539-e1de-44d4-9558-fde2d1cde937": "Sobre Nosotros",
-    "freestyle-section-34087b9f-b0a6-441d-9dd7-2f6605997dcd": "Productos",
-    "freestyle-section-cfef5883-a472-44ed-a3c0-c7d9064a8530": "Info",
-    "freestyle-section-f3982d61-ceb5-4bc8-a02a-26e468170436": "Equipo"
+    "freestyle-section-f75ab0fe-be00-4bda-8eb6-564ba9870047": "Home",
+    "freestyle-section-cc702164-2f31-4299-a3e1-74bae0235d24": "Über uns",
+    "freestyle-section-37004cfe-f93b-41b4-914d-2c59142b8a0e": "Familienmitglieder",
+    "freestyle-section-1f5678ea-cd7b-4ece-9ff8-4d1cb600c4c9": "Galerie",
+    "freestyle-section-97275cbf-1c22-4f9e-87d5-862e4f6ad7de": "Reisen",
+    "freestyle-section-5ec2cd42-a88f-42cb-85f1-0c1c269a0afa": "Tills Auslandsjahr"
   },
   "showSlideshow": true,
   "showServices": true,
@@ -351,20 +352,20 @@
   "selectedTemplate": "",
   "freestyleSections": [
     {
-      "id": "057dc573-e85b-4a5b-851b-65f7dc66790a",
+      "id": "f75ab0fe-be00-4bda-8eb6-564ba9870047",
       "name": "Freestyle 1",
       "blocks": [
         {
-          "id": "e1eca847-d098-418a-8eaf-a23c8e1e4f6e",
+          "id": "51887489-c8a9-4d57-a1a3-b7eae39a86e6",
           "type": "heading",
-          "value": "Mirian Nutrition",
+          "value": "Brettel Familie",
           "styles": {
             "level": "h2",
             "textAlign": "center",
             "verticalPosition": 0,
             "optional": false,
             "fontSize": 75,
-            "fontFamily": "Garamond",
+            "fontFamily": "Helvetica",
             "fontWeight": "bold",
             "fontColor": "white"
           }
@@ -377,13 +378,13 @@
       }
     },
     {
-      "id": "9c644539-e1de-44d4-9558-fde2d1cde937",
+      "id": "cc702164-2f31-4299-a3e1-74bae0235d24",
       "name": "Freestyle 2",
       "blocks": [
         {
-          "id": "30c124cd-c940-4375-a222-b3078ac6ad5e",
+          "id": "dc56a4d3-e6cf-4d76-af9b-274a83635d36",
           "type": "heading",
-          "value": "Sobre Nosotros",
+          "value": "Über uns",
           "styles": {
             "level": "h2",
             "textAlign": "center",
@@ -391,38 +392,38 @@
             "optional": false,
             "fontSize": 50,
             "fontFamily": "",
-            "fontWeight": "extrabold",
-            "fontColor": "white"
+            "fontWeight": "bold",
+            "fontColor": ""
           }
         },
         {
-          "id": "bcb15bcf-d44d-41bd-9847-635edfbb919d",
+          "id": "fd8bc32d-88cb-4f58-ab50-8fbf526565e5",
           "type": "text",
-          "value": "Somos una marca de suplementos enfocada en claridad, transparencia y evidencia científica.\nNuestro objetivo no es vender promesas, sino ofrecer productos con ingredientes claros, dosis correctas y explicaciones comprensibles.\nCreemos que muchas marcas complican innecesariamente la suplementación. Nosotros hacemos lo contrario:\nformulaciones simples, información accesible y decisiones basadas en ciencia, no en tendencias.\nTodos nuestros productos se desarrollan siguiendo estándares de calidad europeos, con un enfoque en seguridad, funcionalidad y control de materias primas.Esta marca está pensada para personas activas que quieren entender lo que consumen, no solo comprarlo.",
+          "value": "Wir sind die Brettels – eine lebensfrohe, unternehmungslustige Familie, die gerne Zeit miteinander verbringt. Bei uns geht es oft lebhaft zu, aber genau das macht unser Familienleben aus: viel Lachen, gute Gespräche und gemeinsame Erlebnisse, an die wir uns gern zurückerinnern. Ob Ausflüge, Reisen, Sport oder gemütliche Abende zu Hause – wir genießen die Zeit miteinander und versuchen, jeden Moment bewusst zu erleben. Für uns bedeutet Familie Zusammenhalt, Vertrauen und Freude am gemeinsamen Leben. Diese Website ist unser privates Familienalbum. Sie bietet einen sicheren Ort, um Fotos, Erlebnisse und besondere Momente nur mit unseren Familienmitgliedern zu teilen. Schön, dass du hier bist und ein Teil unseres Familienalltags bist!",
           "styles": {
             "textAlign": "left",
             "verticalPosition": 0,
-            "fontSize": 16,
+            "fontSize": 20,
             "fontFamily": "",
             "fontWeight": "normal",
-            "fontColor": "gray"
+            "fontColor": ""
           }
         }
       ],
       "styles": {
         "width": "100%",
-        "backgroundColor": "black",
+        "backgroundColor": "#ffffff",
         "backgroundImage": ""
       }
     },
     {
-      "id": "34087b9f-b0a6-441d-9dd7-2f6605997dcd",
+      "id": "37004cfe-f93b-41b4-914d-2c59142b8a0e",
       "name": "Freestyle 3",
       "blocks": [
         {
-          "id": "c61decc4-3970-4c83-b1de-31caffab1808",
+          "id": "7e67d50d-1844-472b-bf2a-d04a49ac88f8",
           "type": "heading",
-          "value": "Productos",
+          "value": "Familienmitglieder",
           "styles": {
             "level": "h2",
             "textAlign": "center",
@@ -430,48 +431,60 @@
             "optional": false,
             "fontSize": 50,
             "fontFamily": "",
-            "fontWeight": "extrabold",
-            "fontColor": "white"
+            "fontWeight": "bold",
+            "fontColor": ""
           }
         },
         {
-          "id": "2b682c61-0951-4ca1-90bb-3bf8128956d0",
+          "id": "a1a33102-7d1c-4614-83bf-027a29150de6",
           "type": "layout-container",
           "blocks": [
             {
-              "id": "bc366925-d4f1-4a51-b19d-3bc99b098f14",
-              "type": "products",
-              "products": [
-                {
-                  "title": "Whey Gold Standard",
-                  "description": "",
-                  "image": "images/image_1.jpeg"
-                }
-              ],
+              "id": "c0061613-d68d-403e-9b70-8bfd16f7f854",
+              "type": "team-member",
+              "name": "Anne Gauggel",
+              "position": "",
+              "photo": "images/photo_1.jpeg",
               "styles": {
                 "verticalPosition": 0
               }
             },
             {
-              "id": "7f7e5562-f2e8-431b-8c0b-5b06c206e1ad",
-              "type": "products",
-              "products": [
-                {
-                  "title": "Creatin Powder",
-                  "description": "",
-                  "image": "images/image_2.jpeg"
-                },
-                {
-                  "title": "Whey Protein chocolate",
-                  "description": "",
-                  "image": "images/image_3.jpeg"
-                },
-                {
-                  "title": "Whey Protein mango",
-                  "description": "",
-                  "image": "images/image_4.jpeg"
-                }
-              ],
+              "id": "e0b967c8-312b-427c-b627-f873367ff78d",
+              "type": "team-member",
+              "name": "Malte Brettel",
+              "position": "",
+              "photo": "images/photo_2.jpeg",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "4e59eca4-eeae-483f-b3b7-87676c64bc9f",
+              "type": "team-member",
+              "name": "Tanja Brettel",
+              "position": "",
+              "photo": "images/photo_3.jpeg",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "df2b3565-dcf5-4116-9fc7-579fe179b9d3",
+              "type": "team-member",
+              "name": "Till Brettel",
+              "position": "",
+              "photo": "images/photo_4.jpeg",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "d7fdbc79-eb7d-4599-98cb-fff928ee18c2",
+              "type": "team-member",
+              "name": "Sophie Brettel",
+              "position": "",
+              "photo": "images/photo_5.jpeg",
               "styles": {
                 "verticalPosition": 0
               }
@@ -488,18 +501,18 @@
       ],
       "styles": {
         "width": "100%",
-        "backgroundColor": "black",
+        "backgroundColor": "#ffffff",
         "backgroundImage": ""
       }
     },
     {
-      "id": "cfef5883-a472-44ed-a3c0-c7d9064a8530",
+      "id": "1f5678ea-cd7b-4ece-9ff8-4d1cb600c4c9",
       "name": "Freestyle 4",
       "blocks": [
         {
-          "id": "105c4c4d-475e-403d-a48f-a6898f06cdd3",
+          "id": "9f98c197-986f-4615-888c-fd9c81723924",
           "type": "heading",
-          "value": "Info",
+          "value": "Galerie",
           "styles": {
             "level": "h2",
             "textAlign": "center",
@@ -507,106 +520,391 @@
             "optional": false,
             "fontSize": 50,
             "fontFamily": "",
-            "fontWeight": "extrabold",
-            "fontColor": "white"
+            "fontWeight": "bold",
+            "fontColor": ""
           }
         },
         {
-          "id": "177b9d8b-c5c5-46a8-99d6-1d7073715200",
+          "id": "d965fde4-6075-4890-995c-fa8fd714deca",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "2ba92aa3-0d64-4f41-b1c6-23c84d8c774b",
+              "type": "image",
+              "value": "images/value_6.jpeg",
+              "styles": {
+                "width": 400,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "9baa4ff9-7962-45a2-8a60-b2923bd7bb2a",
+              "type": "image",
+              "value": "images/value_7.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "97105f8d-6d0f-422d-8af9-4476bb39d7f0",
+              "type": "image",
+              "value": "images/value_8.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "db20f3ea-037b-4571-b1e3-af46ed56c802",
+              "type": "image",
+              "value": "",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        },
+        {
+          "id": "6ba1ffcd-3361-4295-ae09-649bc1a6aee8",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "4677c152-eba6-4991-9e44-3f8ffbcf824a",
+              "type": "image",
+              "value": "images/value_9.jpeg",
+              "styles": {
+                "width": 400,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "4e1f9feb-3ee7-4449-8b47-6f2c3b351885",
+              "type": "image",
+              "value": "images/value_10.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "07102f94-f304-4347-8d75-23fd4f057d66",
+              "type": "image",
+              "value": "",
+              "styles": {
+                "width": 400,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "eb7bf050-e4dc-489f-9aea-c9c378d549b2",
+              "type": "image",
+              "value": "images/value_11.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        },
+        {
+          "id": "7f197c7a-b080-4378-8fa4-fea83c0437bc",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "26dee0f2-a159-4f64-90b7-6e42d4697ae0",
+              "type": "image",
+              "value": "images/value_12.jpeg",
+              "styles": {
+                "width": 400,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "6ebbcfbd-239f-4344-a402-1614258638cc",
+              "type": "image",
+              "value": "images/value_13.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "a3247af6-c252-4390-a122-6ab9f939cc8d",
+              "type": "image",
+              "value": "images/value_14.jpeg",
+              "styles": {
+                "width": 250,
+                "height": 300,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "#ffffff",
+        "backgroundImage": ""
+      }
+    },
+    {
+      "id": "97275cbf-1c22-4f9e-87d5-862e4f6ad7de",
+      "name": "Freestyle 5",
+      "blocks": [
+        {
+          "id": "a6dd254c-997e-439d-be9b-47c3019db060",
+          "type": "heading",
+          "value": "Reisen",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "bold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "a0fab2ec-e4d1-48c6-a3af-b8ed2f605cb5",
+          "type": "heading",
+          "value": "Frankreich 2025",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "6164ca20-6e68-4bdc-a366-05c91a3d85a8",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "c8eab80d-5fb6-4eec-a082-236bd17c7886",
+              "type": "image",
+              "value": "images/value_15.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "b6b6a2ce-833c-4c09-8117-7a793c1bf846",
+              "type": "text",
+              "value": "Unsere Reise nach Frankreich begann mit einer langen, aber angenehmen Autofahrt zu unserem Ferienhaus in Houlgate, einem kleinen Küstenstädtchen in der Normandie. Das Haus war perfekt für alle, da es für jeden etwas zu bieten hatte: einen Pool mit ausfahrbarem Dach, einen Basketballkorb, eine Tischtennisplatte und sogar einen kleinen Fitnessraum. Besonders praktisch war, dass der Strand in nur etwa zehn Minuten zu Fuß erreichbar war – ein Vorteil, den vor allem die Kinder ausgiebig nutzten. Nach sieben erlebnisreichen Tagen machten wir uns auf den Weg nach Paris, wo wir die letzten drei Tage unseres Urlaubs verbringen wollten. Diese Zeit nutzten wir bestens: Wir besuchten den Eiffelturm, gingen shoppen, sahen die Mona Lisa im Louvre und ließen den Tag bei schönem Essen ausklingen. Rückblickend war es eine Reise, die Entspannung und neue Erfahrungen ideal miteinander verband – eine perfekte Mischung aus Erholung, Abenteuer und gemeinsamen Momenten.",
+              "styles": {
+                "textAlign": "left",
+                "verticalPosition": 0,
+                "fontSize": 16,
+                "fontFamily": "",
+                "fontWeight": "normal",
+                "fontColor": ""
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        },
+        {
+          "id": "ed56b8b5-f091-443d-ba5d-d30180abf17b",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "35055d65-2823-4371-8c4b-53120bd584a4",
+              "type": "image",
+              "value": "images/value_16.jpeg",
+              "styles": {
+                "width": 112,
+                "height": 150,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "96d39780-4d78-42df-ac13-e14c62fb0018",
+              "type": "image",
+              "value": "images/value_17.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "491217b7-3bb4-4660-a4a5-a27fea91aeaa",
+              "type": "image",
+              "value": "images/value_18.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "a09ebae2-44ea-43d5-984e-2b8d386611cb",
+              "type": "image",
+              "value": "images/value_19.jpeg",
+              "styles": {
+                "width": 112,
+                "height": 150,
+                "float": "none",
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "#ffffff",
+        "backgroundImage": ""
+      }
+    },
+    {
+      "id": "5ec2cd42-a88f-42cb-85f1-0c1c269a0afa",
+      "name": "Freestyle 6",
+      "blocks": [
+        {
+          "id": "06d679dc-a1b6-4ee2-93fe-55482fdd0245",
+          "type": "heading",
+          "value": "Tills Auslandsjahr",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "bold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "fc02fd11-db93-4786-bee9-c4e423247b8c",
+          "type": "heading",
+          "value": "Bericht – Paraguay, 07.10.2025",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "31546f4b-594e-4f6e-915c-131478115cc1",
           "type": "text",
-          "value": "Si entrenas con regularidad, los suplementos pueden ser un gran aliado para mejorar tus resultados y optimizar tu rendimiento. Entre todos ellos, la creatina es uno de los más estudiados y respaldados por la ciencia. Su uso constante puede ayudarte a aumentar la fuerza y la masa muscular de manera más rápida, mejorar el rendimiento durante esfuerzos cortos e intensos y acelerar la recuperación después de entrenamientos exigentes.\n\nAdemás de sus beneficios físicos, la creatina también puede tener un impacto positivo en las funciones cognitivas, como la memoria, la concentración y la capacidad de atención, lo que puede ser útil tanto dentro como fuera del entrenamiento. Es un suplemento seguro, fácil de incorporar en la rutina diaria y adecuado para una amplia variedad de deportes, desde entrenamiento de fuerza hasta disciplinas que requieren movimientos explosivos y alta potencia.\n\nEs importante recordar que los suplementos no sustituyen una alimentación equilibrada ni un estilo de vida saludable, pero pueden complementar tu dieta para ayudarte a alcanzar tu máximo potencial y sacar el mayor provecho de tus sesiones de entrenamiento. Usar suplementos de manera responsable, siguiendo las dosis recomendadas y consultando a un profesional de la salud en caso de dudas, garantiza que obtengas todos los beneficios sin riesgos innecesarios.\n\nEn esta sección, nuestro objetivo es ofrecer información clara y basada en evidencia para que puedas tomar decisiones informadas sobre tu suplementación y elegir lo que realmente te puede ayudar a progresar de manera segura y efectiva.",
+          "value": "Ich bin nun fast zwei Monate hier in Paraguay und habe bereits viele Erfahrungen gesammelt. An meiner Ankunft am 15.08. am Internationalen Flughafen von Asunción wurde ich von meiner Gastfamilie – Mutter Mirian, Vater Fredy, Gastschwester Sofía und Gastbruder Lucas, der zehn Tage nach meiner Ankunft für seinen Austausch nach Frankreich aufbrach – herzlich empfangen. Anschließend gingen wir in eine Mall in der Hauptstadt, um uns etwas zu stärken, bevor wir nach Oviedo „la casa“ fuhren. Dort warteten bereits gespannt die Großmutter, „Nona“, und der vierjährige Ian, „hermanito“ – was so viel wie kleiner Bruder bedeutet – auf uns. In den darauf folgenden Tagen nahm der Alltag schnell wieder seinen normalen Lauf, und schon bald kam der erste Schultag. An diesem Morgen warteten meine Klassenkameraden gespannt auf mich und begrüßten mich sehr herzlich. In den darauf folgenden Wochen füge ich mich immer besser ein und finde langsam meinen Rhythmus. Jetzt sitze ich an meinem Schreibtisch, schreibe diesen Bericht und reflektiere über die grundlegenden Unterschiede zu Deutschland. In einem ausführlichen Gespräch mit meinem Gastvater sind wir zu dem Schluss gekommen, dass neben den kulturellen Aspekten vor allem eins sehr anders ist: die Entspanntheit und Disziplin. Paraguayer gehen mit vielen Dingen sehr entspannt um – manchmal fast zu entspannt. Ob es das pünktliche Erscheinen in der Schule, Hausaufgaben oder – zu meinem Erstaunen – das Herumturnen meines kleinen Gastbruders im Auto während der Fahrt betrifft. Deutsche dagegen sind in fast allem sehr genau, manchmal sogar zu genau – sei es beim Tischdecken oder bei Bürokratie und Details, die oft unwesentlich erscheinen. Wir waren uns einig, dass ein Mittelweg ideal wäre: Disziplin dort, wo sie wichtig ist, und Entspanntheit dort, wo man auch mal locker lassen kann. Insgesamt finde ich es sehr interessant, mich mit meinem Gastvater über diverse Themen auszutauschen – sei es Politik, Kryptowährungen, KI oder vieles mehr. Bisher noch auf Englisch, aber bald mit Sicherheit auf Spanisch.",
           "styles": {
             "textAlign": "left",
             "verticalPosition": 0,
             "fontSize": 16,
             "fontFamily": "",
             "fontWeight": "normal",
-            "fontColor": "gray"
+            "fontColor": ""
           }
-        }
-      ],
-      "styles": {
-        "width": "100%",
-        "backgroundColor": "black",
-        "backgroundImage": ""
-      }
-    },
-    {
-      "id": "f3982d61-ceb5-4bc8-a02a-26e468170436",
-      "name": "Freestyle 5",
-      "blocks": [
+        },
         {
-          "id": "f0cbddee-dbc8-4681-bf9f-78b39259f8dd",
+          "id": "55a92703-3f51-45f1-93ac-b68376a915c8",
           "type": "heading",
-          "value": "Equipo",
+          "value": "Bericht Patagonien 2025",
           "styles": {
             "level": "h2",
             "textAlign": "center",
             "verticalPosition": 0,
             "optional": false,
-            "fontSize": 50,
+            "fontSize": 28,
             "fontFamily": "",
-            "fontWeight": "extrabold",
-            "fontColor": "white"
+            "fontWeight": "bold",
+            "fontColor": ""
           }
         },
         {
-          "id": "c3aa45b4-5039-418c-8556-78499c839720",
-          "type": "layout-container",
-          "blocks": [
-            {
-              "id": "206b2d01-7735-45a6-801c-d18ff5f6034e",
-              "type": "team-member",
-              "name": "Mirian Recalde",
-              "position": "",
-              "photo": "",
-              "styles": {
-                "verticalPosition": 0
-              }
-            },
-            {
-              "id": "8afa3772-1b74-418d-8617-c13fcb1debc8",
-              "type": "team-member",
-              "name": "Francesco",
-              "position": "",
-              "photo": "",
-              "styles": {
-                "verticalPosition": 0
-              }
-            },
-            {
-              "id": "d3a15122-19b4-462e-b239-103fd76ded77",
-              "type": "team-member",
-              "name": "Juan",
-              "position": "",
-              "photo": "",
-              "styles": {
-                "verticalPosition": 0
-              }
-            },
-            {
-              "id": "d78a1964-f04a-4e0e-9aa9-015fa0620eca",
-              "type": "team-member",
-              "name": "Fredy",
-              "position": "",
-              "photo": "",
-              "styles": {
-                "verticalPosition": 0
-              }
-            }
-          ],
+          "id": "8f581e68-18e4-460c-a0ca-d6f4b67a17f8",
+          "type": "text",
+          "value": "Heute ist der 04.12, der Patagonien Trip liegt nicht mal eine Woche zurück und ich vermisse ihn schon. Ich vermisse die Leute, mit denen ich diese besonderen Erfahrungen teilen durfte, ich vermisse die Aktivitäten und sogar den komischen Akzent, aber von Anfang. Es begann damit, dass mein YEO, zusammen mit ihrem Mann, Cecile und mir, uns um 7 Uhr morgens ins Auto nach Asuncion zum Flughafen setzten, wo wir unseren Flug um 11:15 kriegen wollten. Nach knappen zwei Stunden Fahrtzeit entluden wir das Auto und begaben uns zum Check-in, wo wir die anderen Austauschschüler trafen. Bis dorthin verlief alles noch reibungslos, bis wir dann jedoch zum Zoll kamen. In Paraguay gibt es die Regel, dass eine Person 90 Tage maximal ohne Visa im Land bleiben darf. Ich schrammte gerade so an dieser Grenze vorbei (89 Tage) jedoch Cecile leider nicht. Dadurch dass sie 91 Tage im Land war, musste sie als wir 18 Tage später wieder einreisten, ein dürftiges Bußgeld bezahlen. Nach der Landung in Cordoba wurden wir zum Hotel in der Stadt gefahren und am nächsten Tag begann die Reise. In den folgenden 18 Tagen sahen wir sehr unterschiedliche aber auf ihre weisen auch wunderschönen Dinge. Wir bekamen Strände, Seen, schneebedeckte Berge, Pinguine, Wale und viele weiter Dinge zu Gesicht, die jedoch schönsten Ort möchte ich hier nochmal hervorheben. Puerto Madryn: Eine Stadt an der Küste, wo wir mit Einheimischen am Strand Fußball gespielt haben. Das hat unglaublich viel Spaß gemacht und zählt definitiv zu den besten Erlebnissen der Reise. Außerdem haben wir unsere Füße in den eiskalten Südatlantik gehängt – ein bisschen Schmerz, aber unvergesslich. Irgendwo mitten im Land auf dem Weg nach El Calafate: Wir mussten anhalten, da der Wind zu stark war, um weiterzufahren. Also verbrachten wir den ganzen Tag in einer Turnhalle, wo wir ununterbrochen Fußball spielen konnten. Für mich war das super, mal wieder richtig Sport zu machen. El Calafate: Dort wohnten wir in kleinen Hütten, meiner Meinung nach die beste Unterkunft der Reise. Die Stadt selbst ist wunderschön, fast kanadisch anmutend – wahrscheinlich wegen der vielen Holzhäuser. Außerdem gab es überall Fleisch zu sehen, man konnte gar nicht anders, als einiges davon zu probieren. Ushuaia: Das „Ende der Welt“ beeindruckte uns mit extrem schöner Landschaft. Vor unserem Haus gab es einen Fußballplatz, auf dem wir gespielt haben – unvergesslich, mitten in dieser wilden Natur. Bariloche: Ein extrem schöner Ort mit einem atemberaubenden See. Wir sind einmal im See schwimmen gegangen – eisig kalt, aber ein Erlebnis für sich. Außerdem waren wir an einem Aussichtspunkt, den wir mit Gondeln wie beim Skifahren erreicht haben. Die Reise endete hier, und der letzte Abend war wahrscheinlich der schönste: Wir saßen in der Lobby bis um 4 Uhr morgens, haben Karten gespielt und dabei Jazzmusik gehört – ein perfekter Abschluss für diese unvergessliche Reise.",
           "styles": {
-            "display": "flex",
-            "flexDirection": "row",
-            "gap": 16,
-            "justifyContent": "flex-start",
-            "alignItems": "stretch"
+            "textAlign": "left",
+            "verticalPosition": 0,
+            "fontSize": 16,
+            "fontFamily": "",
+            "fontWeight": "normal",
+            "fontColor": ""
           }
         }
       ],
       "styles": {
         "width": "100%",
-        "backgroundColor": "black",
+        "backgroundColor": "#ffffff",
         "backgroundImage": ""
       }
     }
