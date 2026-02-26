@@ -1,0 +1,660 @@
+{
+  "businessName": "Brettel Familie",
+  "tagline": "Unsere Familien Webseite",
+  "description": "Wir sind die Brettels – eine lebensfrohe, unternehmungslustige Familie, die gerne Zeit miteinander verbringt. Bei uns geht es oft lebhaft zu, aber genau das macht unser Familienleben aus: viel Lachen, gute Gespräche und gemeinsame Erlebnisse, an die wir uns gern zurückerinnern.\n\nOb Ausflüge, Reisen, Sport oder gemütliche Abende zu Hause – wir genießen die Zeit miteinander und versuchen, jeden Moment bewusst zu erleben. Für uns bedeutet Familie Zusammenhalt, Vertrauen und Freude am gemeinsamen Leben.\n\nDiese Website ist unser privates Familienalbum. Sie bietet einen sicheren Ort, um Fotos, Erlebnisse und besondere Momente nur mit unseren Familienmitgliedern zu teilen. Schön, dass du hier bist und ein Teil unseres Familienalltags bist!\n",
+  "address": "Kaiser Friedrich Allee, 52074 Aachen",
+  "phone": "0241 97906222",
+  "hours": "Immer",
+  "accent": "#3b82f6",
+  "layoutTemplate": "apple",
+  "logoDataUrl": "",
+  "backgroundColor": "#f8fafc",
+  "backgroundImage": "images/backgroundImage_0.jpeg",
+  "backgroundVideoUrl": "",
+  "backgroundSize": "100%",
+  "fontSizeName": 38,
+  "fontSizeDesc": 18,
+  "logoWidth": 120,
+  "logoHeight": 120,
+  "slideshowWidth": 250,
+  "slideshowHeight": 180,
+  "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "fontWeight": "normal",
+  "fontColor": "#000000",
+  "bgSections": {
+    "about": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contact": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "products": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "team": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "faq": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "blog": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "news": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "jobs": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "projects": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "prices": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "events": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "gallery": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "partners": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "newsletter": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contactForm": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "bookingSystem": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "downloads": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "freestyle": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "calendar": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "menu": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "history": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "imprint": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "privacy": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "reviews": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    }
+  },
+  "transparentSections": true,
+  "transparentNavbar": true,
+  "navbarFontColor": "#00040a",
+  "navbarFontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "navbarBorderColor": "#e2e8f0",
+  "navbarBorderWidth": 1,
+  "navbarBorderStyle": "solid",
+  "navbarCustomTabNames": {
+    "team-section": "Familienmitglieder",
+    "freestyle-section-be3c30c9-7aa6-4a74-b893-e5443a2619fc": "Galerie",
+    "freestyle-section-b2d9c0a3-8fa5-4870-a47e-98df79842a2d": "Reisen",
+    "freestyle-section-fc8b81f8-4a51-43ee-abd6-cbe5e90acb08": "Tills Austausch"
+  },
+  "showSlideshow": true,
+  "showServices": false,
+  "showTeam": true,
+  "showFAQ": false,
+  "showBlog": false,
+  "showNews": false,
+  "showJobs": false,
+  "showProjects": false,
+  "showPrices": false,
+  "showEvents": false,
+  "showGallery": false,
+  "showPartners": false,
+  "showNewsletter": false,
+  "showContactForm": false,
+  "showBookingSystem": false,
+  "showDownloads": false,
+  "showMap": true,
+  "showLanguageSelector": false,
+  "slideshowImages": [],
+  "services": [
+    {
+      "title": "Neues Produkt",
+      "description": "Beschreibung",
+      "image": ""
+    }
+  ],
+  "team": [
+    {
+      "name": "Tanja Brettel",
+      "position": "Mama",
+      "photo": "images/photo_1.jpeg"
+    },
+    {
+      "name": "Malte Brettel",
+      "position": "Papa",
+      "photo": "images/photo_2.jpeg"
+    },
+    {
+      "name": "Sophie Brettel",
+      "position": "Kind",
+      "photo": "images/photo_3.jpeg"
+    },
+    {
+      "name": "Till Brettel",
+      "position": "Kind",
+      "photo": "images/photo_4.jpeg"
+    },
+    {
+      "name": "Anne Gauggel",
+      "position": "Oma",
+      "photo": "images/photo_5.jpeg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Öffnungszeiten?",
+      "answer": "Mo-Fr 10-20"
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "Neuer Blogpost",
+      "content": "Inhalt des Blogposts...",
+      "image": ""
+    }
+  ],
+  "newsItems": [
+    {
+      "title": "Wichtige Neuigkeit",
+      "content": "Hier ist die neueste Nachricht.",
+      "date": "2023-10-27"
+    }
+  ],
+  "jobListings": [
+    {
+      "title": "Webentwickler gesucht",
+      "location": "Ort",
+      "description": "Wir suchen einen erfahrenen Webentwickler."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Neues Projekt",
+      "description": "Beschreibung des Projekts.",
+      "image": ""
+    }
+  ],
+  "pricingPlans": [
+    {
+      "title": "Neuer Plan",
+      "price": "€XX/Monat",
+      "features": [
+        "Feature 1",
+        "Feature 2"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Neues Event",
+      "date": "2024-08-15",
+      "description": "Beschreibung des Events."
+    }
+  ],
+  "galleryImages": [],
+  "partners": [
+    {
+      "name": "Familie Tolba",
+      "logo": ""
+    }
+  ],
+  "newsletterText": "Melden Sie sich für unseren Newsletter an, um die neuesten Updates zu erhalten!",
+  "contactFormRecipientEmail": "info@example.com",
+  "bookingSystemRecipientEmail": "booking@example.com",
+  "mapEmbedUrl": "<!-- Google Maps iframe: einfacher Such-Embed --> <iframe   width=\"600\" height=\"450\" style=\"border:0\"   loading=\"lazy\" allowfullscreen   src=\"https://www.google.com/maps?q=Kaiser-Friedrich-Allee+6+52074+Aachen&output=embed\"> </iframe>",
+  "downloads": [],
+  "whatsappNumber": "",
+  "instagramUrl": "",
+  "tiktokUrl": "",
+  "facebookUrl": "",
+  "templatesEnabled": false,
+  "selectedTemplate": "",
+  "freestyleSections": [
+    {
+      "id": "be3c30c9-7aa6-4a74-b893-e5443a2619fc",
+      "name": "Freestyle 1",
+      "blocks": [
+        {
+          "id": "a382d84d-bf00-41ef-9dbc-4cea921ba11d",
+          "type": "heading",
+          "value": "Galerie",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "bold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "b9eed1b0-0027-4844-949d-c1511b42b763",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "07714628-9493-45cf-877e-588d4fcde5fb",
+              "type": "image",
+              "value": "images/value_6.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "f9e26870-646e-4237-8d11-f417b17d7b74",
+              "type": "image",
+              "value": "images/value_7.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "82ccec78-cdf2-4f03-a8e7-67c1775351a0",
+              "type": "image",
+              "value": "images/value_8.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "4bd5b768-bc18-4149-a9b8-9dae01e98308",
+              "type": "image",
+              "value": "images/value_9.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        },
+        {
+          "id": "2ad65516-fda5-428e-baf0-1aaccd829440",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "a7ba59d9-1357-4941-8094-353097afdd1d",
+              "type": "image",
+              "value": "images/value_10.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "95d77a2c-c814-421a-9300-29350b7c9746",
+              "type": "image",
+              "value": "images/value_11.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "ed0a04d6-20b0-4eae-90f2-02293dc5ec9b",
+              "type": "image",
+              "value": "images/value_12.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            },
+            {
+              "id": "17121a49-0fe2-4be1-97d1-488a4c762c89",
+              "type": "image",
+              "value": "images/value_13.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 200,
+                "float": "none"
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%"
+      }
+    },
+    {
+      "id": "b2d9c0a3-8fa5-4870-a47e-98df79842a2d",
+      "name": "Freestyle 2",
+      "blocks": [
+        {
+          "id": "2145837a-4ac0-4665-882f-01cc54f9e0b0",
+          "type": "heading",
+          "value": "Reisen",
+          "styles": {
+            "level": "h1",
+            "textAlign": "center",
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "bold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "84c65db0-468f-4e12-9a35-62705a6adcf7",
+          "type": "heading",
+          "value": "Frankreich 2025",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "5a615b1a-1f7c-49e9-8a85-da52a4ec33ed",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "0693f549-067e-4d5d-8f0a-6805d830ce76",
+              "type": "image",
+              "value": "images/value_14.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "left"
+              }
+            },
+            {
+              "id": "d27b46cf-cb33-4b3c-837b-948d227860c1",
+              "type": "text",
+              "value": "Unsere Reise nach Frankreich begann mit einer langen, aber angenehmen Autofahrt zu unserem Ferienhaus in Houlgate, einem kleinen Küstenstädtchen in der Normandie. Das Haus war perfekt für alle, da es für jeden etwas zu bieten hatte: einen Pool mit ausfahrbarem Dach, einen Basketballkorb, eine Tischtennisplatte und sogar einen kleinen Fitnessraum. Besonders praktisch war, dass der Strand in nur etwa zehn Minuten zu Fuß erreichbar war – ein Vorteil, den vor allem die Kinder ausgiebig nutzten.\n\nNach sieben erlebnisreichen Tagen machten wir uns auf den Weg nach Paris, wo wir die letzten drei Tage unseres Urlaubs verbringen wollten. Diese Zeit nutzten wir bestens: Wir besuchten den Eiffelturm, gingen shoppen, sahen die Mona Lisa im Louvre und ließen den Tag bei schönem Essen ausklingen.\n\nRückblickend war es eine Reise, die Entspannung und neue Erfahrungen ideal miteinander verband – eine perfekte Mischung aus Erholung, Abenteuer und gemeinsamen Momenten.",
+              "styles": {
+                "textAlign": "right",
+                "fontSize": 16,
+                "fontFamily": "",
+                "fontWeight": "normal",
+                "fontColor": ""
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        },
+        {
+          "id": "d9a4d24b-6608-4b6e-9130-4c0ba199e485",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "cc883fcb-f064-4e33-a18f-70e30592d741",
+              "type": "image",
+              "value": "images/value_15.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none"
+              }
+            },
+            {
+              "id": "d6aedb00-00b9-496c-952d-670da8037b51",
+              "type": "image",
+              "value": "images/value_16.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none"
+              }
+            },
+            {
+              "id": "3096286d-aaaa-4f67-968d-4bc6c57928da",
+              "type": "image",
+              "value": "images/value_17.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none"
+              }
+            },
+            {
+              "id": "5a3dc29c-c9db-45c0-8057-4799d6512168",
+              "type": "image",
+              "value": "images/value_18.jpeg",
+              "styles": {
+                "width": 200,
+                "height": 150,
+                "float": "none"
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%"
+      }
+    },
+    {
+      "id": "fc8b81f8-4a51-43ee-abd6-cbe5e90acb08",
+      "name": "Freestyle 3",
+      "blocks": [
+        {
+          "id": "5717d603-c932-4765-81fa-62d01a7302bc",
+          "type": "heading",
+          "value": "Bericht – Paraguay, 07.10.2025",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "optional": false,
+            "fontSize": 28,
+            "fontFamily": "",
+            "fontWeight": "bold",
+            "fontColor": ""
+          }
+        },
+        {
+          "id": "cbba3c2a-6433-443b-b819-76dd2f321f20",
+          "type": "text",
+          "value": "Ich bin nun fast zwei Monate hier in Paraguay und habe bereits viele Erfahrungen gesammelt. An meiner Ankunft am 15.08. am Internationalen Flughafen von Asunción wurde ich von meiner Gastfamilie – Mutter Mirian, Vater Fredy, Gastschwester Sofía und Gastbruder Lucas, der zehn Tage nach meiner Ankunft für seinen Austausch nach Frankreich aufbrach – herzlich empfangen. Anschließend gingen wir in eine Mall in der Hauptstadt, um uns etwas zu stärken, bevor wir nach Oviedo „la casa“ fuhren. Dort warteten bereits gespannt die Großmutter, „Nona“, und der vierjährige Ian, „hermanito“ – was so viel wie kleiner Bruder bedeutet – auf uns.\n\nIn den darauf folgenden Tagen nahm der Alltag schnell wieder seinen normalen Lauf, und schon bald kam der erste Schultag. An diesem Morgen warteten meine Klassenkameraden gespannt auf mich und begrüßten mich sehr herzlich. In den darauf folgenden Wochen füge ich mich immer besser ein und finde langsam meinen Rhythmus.\n\nJetzt sitze ich an meinem Schreibtisch, schreibe diesen Bericht und reflektiere über die grundlegenden Unterschiede zu Deutschland. In einem ausführlichen Gespräch mit meinem Gastvater sind wir zu dem Schluss gekommen, dass neben den kulturellen Aspekten vor allem eins sehr anders ist: die Entspanntheit und Disziplin. Paraguayer gehen mit vielen Dingen sehr entspannt um – manchmal fast zu entspannt. Ob es das pünktliche Erscheinen in der Schule, Hausaufgaben oder – zu meinem Erstaunen – das Herumturnen meines kleinen Gastbruders im Auto während der Fahrt betrifft. Deutsche dagegen sind in fast allem sehr genau, manchmal sogar zu genau – sei es beim Tischdecken oder bei Bürokratie und Details, die oft unwesentlich erscheinen. Wir waren uns einig, dass ein Mittelweg ideal wäre: Disziplin dort, wo sie wichtig ist, und Entspanntheit dort, wo man auch mal locker lassen kann.\n\nInsgesamt finde ich es sehr interessant, mich mit meinem Gastvater über diverse Themen auszutauschen – sei es Politik, Kryptowährungen, KI oder vieles mehr. Bisher noch auf Englisch, aber bald mit Sicherheit auf Spanisch.",
+          "styles": {
+            "textAlign": "left",
+            "fontSize": 16,
+            "fontFamily": "",
+            "fontWeight": "normal",
+            "fontColor": ""
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%"
+      }
+    }
+  ],
+  "showCalendar": false,
+  "calendarEmbedUrl": "\n",
+  "showMenu": false,
+  "menuImageUrl": "",
+  "menuDocumentUrl": "",
+  "menuDocumentName": "Speisekarte herunterladen",
+  "showHistory": false,
+  "historyContent": "Erzählen Sie hier die Geschichte Ihres Unternehmens, seine Gründung, Meilensteine und Visionen.",
+  "showImprint": false,
+  "imprintContent": "Fügen Sie hier Ihre Impressumsdaten gemäß den gesetzlichen Bestimmungen ein (Name, Adresse, Kontakt, Handelsregister, etc.).",
+  "showPrivacy": false,
+  "privacyContent": "Fügen Sie hier Ihre Datenschutzerklärung ein, die erläutert, wie Sie mit Nutzerdaten umgehen.",
+  "showReviews": false,
+  "reviewsContent": "Fügen Sie hier positive Kundenrezensionen oder Testimonials ein, um Vertrauen aufzubauen.",
+  "domain": "",
+  "initialLanguage": "de"
+}
